@@ -1,13 +1,16 @@
 # Hi, I'm Hannah
 [![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,issues&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats) 
 
-## About Me
+
+## About Me 
 - :woman_technologist: Junior full-stack developer with a marketing background
 - :mortar_board: Recent graduate from a full-stack developer bootcamp with Boolean UK 
 - :books: I’m currently learning MondgoDB
-- :mag: I’m looking for a position as a Junior Software Developer.
+- :mag: I’m looking for a position as a Junior Software Developer 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
+
 
 ## My Stack
 <img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -22,13 +25,14 @@
 
 
 ## Reach me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)][1]
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)][1]
 
 [1]: https://www.linkedin.com/in/reihaneh-naderi-58b136112/
+ -->
 
-<img src="Screenshot_2.jpg" width="300px" heigh="300px">
-  <a href=""></a>
-</img>
+ <a href="https://www.linkedin.com/in/reihaneh-naderi-58b136112/">
+  <img src="linkedin.png" width="30px"/>
+</a>
 
 
 
