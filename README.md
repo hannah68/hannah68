@@ -18,10 +18,17 @@
 <img align="left" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="prisma" width="30px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg"/>
 <img align="left" alt="express" width="30px" src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667"/>
-<img align="left" alt="elephant" width="30px" src="https://camo.githubusercontent.com/53545009f2b8643a3315490d99941d924e108dc8a4ea21bf835f5f0b7c0e54da/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667"/>
+<img align="left" alt="elephant" width="30px" src="https://camo.githubusercontent.com/53545009f2b8643a3315490d99941d924e108dc8a4ea21bf835f5f0b7c0e54da/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667"/><br>
+
 
 ## Reach me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)][1]
 
+[1]: https://www.linkedin.com/in/reihaneh-naderi-58b136112/
+
+<img src="Screenshot_2.jpg" width="300px" heigh="300px">
+  <a href=""></a>
+</img>
 
 
 
