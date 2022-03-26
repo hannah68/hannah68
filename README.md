@@ -4,18 +4,18 @@
 
 ## About Me 
 - :woman_technologist: Junior full-stack developer with a marketing background
-- :mortar_board: Recent graduate from a full-stack developer bootcamp with Boolean UK 
-- :books: I’m currently learning MondgoDB
-- :mag: I’m looking for a position as a Junior Software Developer 
+- :mortar_board: Recent graduate from a full-stack developer bootcamp with Boolean UK
+- :mag: I’m looking for a position as a Junior Developer  
+- :books: I’m currently learning MondoDB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
 
 
 ## My Stack
-<img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
@@ -25,13 +25,8 @@
 
 
 ## Reach me
-<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)][1]
-
-[1]: https://www.linkedin.com/in/reihaneh-naderi-58b136112/
- -->
-
- <a href="https://www.linkedin.com/in/reihaneh-naderi-58b136112/">
-  <img src="linkedin.png" width="30px"/>
+<a href="https://www.linkedin.com/in/reihaneh-naderi-58b136112/">
+  <img src="linkedin.png" width="30px" target="_blank"/>
 </a>
 
 
