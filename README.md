@@ -6,7 +6,7 @@
 - :woman_technologist: Junior full-stack developer with a marketing background
 - :mortar_board: Recent graduate from a full-stack developer bootcamp with Boolean UK
 - :mag: I’m looking for a position as a Junior Developer  
-- :books: I’m currently learning Vue.js
+- :books: In addition to learning Vue.js, I'm currently studying CS Algorithms and Data Structures's concepts.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
