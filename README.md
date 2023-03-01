@@ -4,7 +4,7 @@
 
 ## About Me 
 - :woman_technologist: Junior frontend developer at Ecodesk
-- :mortar_board: Graduate from a full-stack developer bootcamp with Boolean UK
+- :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
 - :mag: I’m looking for a new position as a Junior Developer
 <!---- :books: In addition to learning Vue.js, I'm currently studying CS Algorithms and Data Structures's concepts. --->
 
