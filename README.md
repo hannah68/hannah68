@@ -6,7 +6,7 @@
 - :woman_technologist: Junior frontend developer at Ecodesk
 - :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
 - :mag: I’m looking for a new position as a Junior Developer
-- :books: I'm currently studying CS Algorithms and Data Structures's concepts.
+- :books: I'm currently learning CS Algorithms and Data Structures's concepts.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
