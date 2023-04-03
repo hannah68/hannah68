@@ -3,9 +3,9 @@
 
 
 ## About Me 
-- :woman_technologist: Junior frontend developer at Ecodesk
+- :woman_technologist: Junior frontend developer with a year of experience
+- :mag: I’m looking for a new position as a Junior Software Developer
 - :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
-- :mag: I’m looking for a new position as a Junior Developer
 - :books: I'm currently learning CS Algorithms and Data Structures's concepts.
 
 
