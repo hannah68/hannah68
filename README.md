@@ -1,5 +1,5 @@
 # Hi, I'm Hannah
-[![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,issues&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats) 
+[![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,contribs&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats) 
 
 
 ## About Me 
@@ -9,7 +9,7 @@
 - :books: I'm currently learning CS Algorithms and Data Structures's concepts.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&hide=contribs&langs_count=8&layout=compact&theme=cobaltshow_icons=true)](https://github.com/hannah68/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
 
 
 ## My Stack
