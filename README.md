@@ -3,13 +3,13 @@
 
 
 ## About Me 
-- :woman_technologist: Junior frontend developer with a year of experience
-- :mag: I’m looking for a new position as a Junior Software Developer
+- :woman_technologist:I am a frontend developer with a year of experience
+- :mag: I’m looking for a new position as a Software Developer
 - :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
 - :books: I'm currently learning CS Algorithms and Data Structures's concepts.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&hide=contribs&langs_count=8&layout=compact&theme=cobaltshow_icons=true)](https://github.com/hannah68/github-readme-stats)
 
 
 ## My Stack
@@ -17,8 +17,6 @@
 <img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="prisma" width="30px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg"/>
 <img align="left" alt="express" width="30px" src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667"/>
