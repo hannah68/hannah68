@@ -2,11 +2,12 @@
 [![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,contribs&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats) 
 
 
-## About Me (Cat Lover 😺)
+## About Me 
 - :woman_technologist:I am a frontend developer with a year of experience
 - :mag: I’m looking for a new position as a Software Developer
 - :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
 - :books: I'm currently learning CS Algorithms and Data Structures's concepts.
+- 😺 I'm a Cat Lover 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
