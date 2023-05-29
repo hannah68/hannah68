@@ -1,17 +1,14 @@
 # Hi, I'm Hannah
-[![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,contribs&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats) 
-
+[![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,contribs&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats)
 
 ## About Me 
-- :woman_technologist:I am a frontend developer with a year of experience
+- :woman_technologist: I am a frontend developer with a year of experience
 - :mag: I’m looking for a new position as a Software Developer
 - :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
-- :books: I'm currently learning CS Algorithms and Data Structures's concepts.
+- :books: I'm currently learning CS Algorithms and Data Structures concepts.
 - 😺 I'm a Cat Lover 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
-
 
 ## My Stack
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
