@@ -1,23 +1,50 @@
-# Hi, I'm Hannah
-[![hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah68&hide=stars,contribs&count_private=true&show_icons=true&theme=cobalt&include_all_commits)](https://github.com/hannah68/github-readme-stats)
+# Hi, I'm Hannah 👋
 
-## About Me 
-- :woman_technologist: I am a frontend developer with a two years of experience
-- :mag: I’m looking for a new position as a Software Developer
-- :mortar_board: Graduated from a full-stack developer bootcamp with Boolean UK
-- 😺 I'm a Cat Lover 
+I'm a **Frontend Developer with 4+ years of professional experience**, specialising in building interactive, data-driven web applications with **React and TypeScript**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah68&langs_count=8&layout=compact&theme=cobalt)](https://github.com/hannah68/github-readme-stats)
+I enjoy working on products where frontend development goes beyond building pages, from complex user workflows and data visualisation to real-time monitoring interfaces and reusable component systems.
 
-## My Stack
-<img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-<img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="prisma" width="30px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg"/>
-<img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></br>
+## 👩‍💻 About Me
 
+- 💻 Frontend Developer with 4+ years of professional experience
+- ⚛️ Mainly working with **React, TypeScript and modern frontend tooling**
+- 🎨 Interested in **UX, data visualisation and building intuitive interfaces**
+- 🧪 Experienced building interfaces for **scientific and data-heavy applications**
+- 🧩 Enjoy solving complex UI problems and turning them into simple user experiences
+- 🌱 Currently expanding my knowledge of **frontend architecture, system design and backend development**
+- 🔎 Open to new **Frontend Engineer / Software Engineer** opportunities
+- 😺 Cat lover
+
+## 🛠️ Tech Stack
+
+### Frontend
+`React` · `TypeScript` · `JavaScript` · `Next.js` · `Angular` · `HTML` · `CSS` · `Tailwind CSS`
+
+### State, Data & Forms
+`TanStack Query` · `Zustand` · `Redux` · `React Hook Form` · `Zod` · `REST APIs`
+
+### UI & Data Visualisation
+`React Flow` · `Chart.js` · `Recharts` · `Plotly` · `Material UI`
+
+### Testing
+`Vitest` · `Jest` · `React Testing Library` · `Playwright` · `Cypress`
+
+### Tools & Technologies
+`Git` · `Vite` · `Node.js` · `Docker` · `AWS` · `Figma`
+
+## 🚀 What I've Worked On
+
+Some of the problems I've worked on professionally include:
+
+- Building a **visual protocol builder** for designing multi-step scientific experiments
+- Developing **real-time monitoring dashboards** for bioreactor experiments
+- Creating **touchscreen interfaces** for laboratory hardware
+- Building interactive **data visualisation and scientific applications**
+- Designing reusable frontend components and application architecture
+
+## 📫 Let's Connect
+
+I'm currently open to new opportunities where I can contribute to interesting products, solve challenging frontend problems and continue growing as an engineer.
 
 ## Reach me
 <a href="https://www.linkedin.com/in/reihaneh-naderi-58b136112/">
