@@ -1,4 +1,4 @@
-# Hi, I'm Hannah 👋
+# Hi, I'm Reihaneh 👋
 
 I'm a **Frontend Developer with 4+ years of professional experience**, specialising in building interactive, data-driven web applications with **React and TypeScript**.
 
